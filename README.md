@@ -1,10 +1,12 @@
 
  ### Hi I'm David :wave:
 
-
  
 I am Software Developer currently interested in machine learning and data science. I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/').  
 
+Things i have done :heart:
+- [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U_Net image segmentation architecture as described in the original paper.
+- [Machine learning Basic](https://github.com/david-adewoyin/machine_learning_basics) : Implemented traditional machine learning algorithms such as linear regression,softmax regression,Knn, decision trees, random forest, etc from scratch using only python and numpy.
 
 :mailbox:How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
 
