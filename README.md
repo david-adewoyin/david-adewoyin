@@ -7,7 +7,10 @@ I am Software Developer currently interested in machine learning and data scienc
 Things i have done :heart:
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
 - [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper.
-- [Machine learning Basic](https://github.com/david-adewoyin/machine_learning_basics) Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
+- [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
+- [HackerNews Project](https://github.com/david-adewoyin/HackerNews):
+  - Built a web scrapper that scrapped over **1.2 million** posts and **70k+** usernames from the official api.
+  - Performed Exploratory Data Analysis on the data and try to answer questions using the data.
 
 :mailbox:How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
 
