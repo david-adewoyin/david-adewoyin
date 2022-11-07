@@ -10,9 +10,12 @@ Things i have done :heart:
 - [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
 - [HackerNews Project](https://github.com/david-adewoyin/HackerNews):
   - Built a web scrapper that scrapped over **1.2 million** posts and **70k+** usernames from the official api.
-  - Performed Exploratory Data Analysis on the data and try to answer questions using the data.
+  - Performed Exploratory Data Analysis and Entity Recognition on the data and try to answer questions using the data.
+- [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):
+  - Built a web scrapper using python and playwright to scrap dynamic podcasts data from apple podcast page
+  - Scrapped  over **2k** podcasts and  **500k** user reviews.
 
-:mailbox:How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
+:mailbox: How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
 
 
 
