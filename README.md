@@ -2,9 +2,10 @@
  ### Hi I'm David :wave:
 
  
-I am Software Developer currently interested in machine learning and data science. I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/').  
+I am Software Developer.
+I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/').  
 
-Things i have done :heart:
+Some of the things i have done :heart:
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
 - [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper.
 - [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
