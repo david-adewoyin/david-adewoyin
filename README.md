@@ -3,22 +3,36 @@
 
  
 I am Software Developer.
-I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/').  
+I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/'). I have a lot of stuff i have done ranging from mobile applications built using flutter to backends and data science and machine learning projects.
 
-Some of the things i have done :heart:
+
+### Some of the things i have done :heart:  
+
+ ### Data Science & Machine Learning:  
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
-- [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper with a python command line application for training and inference.
+- [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper.
 - [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
 - [HackerNews Project](https://github.com/david-adewoyin/HackerNews):
   - Built a web scrapper that scrapped over **1.2 million** posts and **70k+** usernames from the official api.
   - Performed Exploratory Data Analysis and Entity Recognition on the data and try to answer questions using the data.
 - [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):
   - Built a web scrapper using python and playwright to scrap dynamic podcasts data from apple podcast page
-  - Scrapped  over **2k** podcasts and  **500k** user reviews.
+  - Scrapped  over **2k** podcasts and  **500k** user reviews.  
+  
+### Backends:
+-  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter):An implementation of a mobile coupon system using golang.
+-  [Yatshop](https://github.com/david-adewoyin/yatshop):A proposed E-commerce website builder with a different spin
+
+### Mobile Application using **Flutter** : 
+
+
+-  [Vaccine Schedule](https://github.com/david-adewoyin/vaccine_schedule):Vaccine Schedule is a flutter application that allows parents to keep track and monitor the vaccine history of their infants.
+-  [Coupon Cutter](https://github.com/david-adewoyin/cuo-cutter):A Flutter implementation of a mobile coupon system, support the creation and validation of coupon code which are displayed as QR codes.
+-  [Credigy](https://github.com/david-adewoyin/credigy): Credigy is a mobile application that allow micro and small scale business owners to keep track of their business accounting.
+-  [Country Directory](https://github.com/david-adewoyin/country_directory): A Flutter application using GraphQL and the Countries API to display basics stats about any country.
+
 
 :mailbox: How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
-
-
 
 <!--
 **david-adewoyin/david-adewoyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
