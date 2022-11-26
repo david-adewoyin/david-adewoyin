@@ -7,7 +7,7 @@ I love to learn and share my knowledge with other people.In my free time i read 
 
 Some of the things i have done :heart:
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
-- [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper.
+- [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper with a python command line application for training and inference.
 - [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implementation of popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
 - [HackerNews Project](https://github.com/david-adewoyin/HackerNews):
   - Built a web scrapper that scrapped over **1.2 million** posts and **70k+** usernames from the official api.
