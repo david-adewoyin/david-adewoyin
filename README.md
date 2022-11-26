@@ -8,6 +8,11 @@ I love to learn and share my knowledge with other people.In my free time i read 
 
 ### Some of the things i have done :heart:  
 
+### Backends:
+-  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter):An implementation of a mobile coupon system using golang.
+-  [Yatshop](https://github.com/david-adewoyin/yatshop):A proposed E-commerce website builder with a different spin
+
+
  ### Data Science & Machine Learning:  
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
 - [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Implementation of the U-Net image segmentation architecture as described in the original paper.
@@ -19,9 +24,6 @@ I love to learn and share my knowledge with other people.In my free time i read 
   - Built a web scrapper using python and playwright to scrap dynamic podcasts data from apple podcast page
   - Scrapped  over **2k** podcasts and  **500k** user reviews.  
   
-### Backends:
--  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter):An implementation of a mobile coupon system using golang.
--  [Yatshop](https://github.com/david-adewoyin/yatshop):A proposed E-commerce website builder with a different spin
 
 ### Mobile Application using **Flutter** : 
 
