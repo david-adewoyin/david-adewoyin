@@ -9,8 +9,8 @@ I love to learn and share my knowledge with other people.In my free time i read 
 ### Some of the things i have done :heart:  
 
 ### Backends:
--  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter):An implementation of a mobile coupon system using golang.
--  [Yatshop](https://github.com/david-adewoyin/yatshop):A proposed E-commerce website builder with a different spin
+-  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter): An implementation of a mobile coupon system using golang.
+-  [Yatshop](https://github.com/david-adewoyin/yatshop): A proposed E-commerce website builder with a different spin
 
 
  ### Data Science & Machine Learning:  
