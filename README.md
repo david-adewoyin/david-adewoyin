@@ -27,8 +27,6 @@ I love to learn and share my knowledge with other people.In my free time i read 
 
 ### Mobile Application using **Flutter** : 
 
-
--  [Vaccine Schedule](https://github.com/david-adewoyin/vaccine_schedule):Vaccine Schedule is a flutter application that allows parents to keep track and monitor the vaccine history of their infants.
 -  [Coupon Cutter](https://github.com/david-adewoyin/cuo-cutter):A Flutter implementation of a mobile coupon system, support the creation and validation of coupon code which are displayed as QR codes.
 -  [Credigy](https://github.com/david-adewoyin/credigy): Credigy is a mobile application that allow micro and small scale business owners to keep track of their business accounting.
 -  [Country Directory](https://github.com/david-adewoyin/country_directory): A Flutter application using GraphQL and the Countries API to display basics stats about any country.
