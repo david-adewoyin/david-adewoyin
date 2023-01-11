@@ -8,10 +8,6 @@ I love to learn and share my knowledge with other people.In my free time i read 
 
 ### Some of the things i have done :heart:  
 
-### Backends:
--  [Coupon Cutter](https://github.com/david-adewoyin/couponcutter): An implementation of a mobile coupon system using golang.
--  [Yatshop](https://github.com/david-adewoyin/yatshop): A proposed E-commerce website builder with a different spin
-
 
  ### Data Science & Machine Learning:  
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Tensorflow Implementation of A Neural Algorithm of Artistic Style.
@@ -25,11 +21,7 @@ I love to learn and share my knowledge with other people.In my free time i read 
   - Scrapped  over **2k** podcasts and  **500k** user reviews.  
   
 
-### Mobile Application using **Flutter** : 
 
--  [Coupon Cutter](https://github.com/david-adewoyin/cuo-cutter):A Flutter implementation of a mobile coupon system, support the creation and validation of coupon code which are displayed as QR codes.
--  [Credigy](https://github.com/david-adewoyin/credigy): Credigy is a mobile application that allow micro and small scale business owners to keep track of their business accounting.
--  [Country Directory](https://github.com/david-adewoyin/country_directory): A Flutter application using GraphQL and the Countries API to display basics stats about any country.
 
 
 :mailbox: How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
