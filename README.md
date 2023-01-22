@@ -14,7 +14,7 @@ I love to learn and share my knowledge with other people.In my free time i read 
 - [Car Prices Analysis and Prediction](https://github.com/david-adewoyin/Car_Price_Analysis_and_Prediction): Collected and Analysed regional car prices data using Python and built a machine learning estimator for prediction car prices.
 - [Bank Marketing Campaign Analysis and Success Prediction](https://github.com/david-adewoyin/bank_marketing_success_prediction): Developed a machine learning model for correctly classifying the success of a bank marketing campaign. 
 - [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implemented  popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
-- [HackerNews Project](https://github.com/david-adewoyin/HackerNews): Scraped over **1.2 million** posts and **70k+** usernames using the official api to perform EDA and entity recognition on data.
+- [HackerNews Project](https://github.com/david-adewoyin/HackerNews): Scrapped over **1.2 million** posts and **70k+** usernames using the official api to perform EDA and entity recognition on data.
 - [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):Scrapped and published podcasts metadata and user reviews dataset for machine learning projects.
   
 
