@@ -22,7 +22,7 @@ I love to learn and share my knowledge with other people.In my free time i read 
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Developed Tensorflow Implementation of A Neural Algorithm of Artistic Style.
 - [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Developed Tensorflow Implementation of the U-Net image segmentation architecture as described in the original paper.
 
-### [Tableau Dashboards](https://public.tableau.com/app/profile/david.adewoyin)
+### [Tableau Profile](https://public.tableau.com/app/profile/david.adewoyin)
 <img src="https://user-images.githubusercontent.com/57121852/213937143-2f2a2748-65d3-4525-9a0e-ad629e869957.png" width='700px'>
 
 
