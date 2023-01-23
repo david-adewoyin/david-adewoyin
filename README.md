@@ -15,14 +15,15 @@ I love to learn and share my knowledge with other people.In my free time i read 
 - [Bank Marketing Campaign Analysis and Success Prediction](https://github.com/david-adewoyin/bank_marketing_success_prediction): Developed machine learning models for correctly classifying the success of a bank marketing campaign with indepth data exploration and visualization using Python and Tableau. 
 - [Machine Learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implemented  popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and Numpy.
 - [HackerNews Project](https://github.com/david-adewoyin/HackerNews): Using the official API, I scraped over 1.2 million posts and 70k+ usernames to perform EDA and entity recognition on data.
-- [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):Scraped and published podcast metadata and user reviews dataset for machine learning projects a. 
+- [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts): Scraped and published podcast metadata and user reviews dataset for machine learning projects. 
 
-### [Tableau Dashboards](https://public.tableau.com/app/profile/david.adewoyin)
-<img src="https://user-images.githubusercontent.com/57121852/213937143-2f2a2748-65d3-4525-9a0e-ad629e869957.png" width='600px'>
 
 ### Deep Learning
-- [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer):Developed Tensorflow Implementation of A Neural Algorithm of Artistic Style.
+- [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer): Developed Tensorflow Implementation of A Neural Algorithm of Artistic Style.
 - [U-Net Image Segementation](https://github.com/david-adewoyin/UNet): Developed Tensorflow Implementation of the U-Net image segmentation architecture as described in the original paper.
+
+### [Tableau Dashboards](https://public.tableau.com/app/profile/david.adewoyin)
+<img src="https://user-images.githubusercontent.com/57121852/213937143-2f2a2748-65d3-4525-9a0e-ad629e869957.png" width='700px'>
 
 
 :mailbox: How to reach me: You can reach me through [email]('mailto:davyadewoyin@gmail.com') or on [Linkedlin](https://www.linkedin.com/in/davyadewoyin/) 
