@@ -11,12 +11,14 @@ I love to learn and share my knowledge with other people.In my free time i read 
 
  ### Data Science & Machine Learning:  
 
-- [Car Prices Analysis and Prediction](https://github.com/david-adewoyin/Car_Price_Analysis_and_Prediction): Collected and Analysed regional car prices data using Python and built a machine learning estimator for prediction car prices.
-- [Bank Marketing Campaign Analysis and Success Prediction](https://github.com/david-adewoyin/bank_marketing_success_prediction): Developed a machine learning model for correctly classifying the success of a bank marketing campaign. 
-- [Machine learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implemented  popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and numpy.
-- [HackerNews Project](https://github.com/david-adewoyin/HackerNews): Scrapped over **1.2 million** posts and **70k+** usernames using the official api to perform EDA and entity recognition on data.
-- [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):Scrapped and published podcasts metadata and user reviews dataset for machine learning projects.
-  
+- [Car Price Analysis and Prediction](https://github.com/david-adewoyin/Car_Price_Analysis_and_Prediction): Collected and analysed regional car price data using Python. Machine learning models for predicting car prices were developed and deployed using Flask.
+- [Bank Marketing Campaign Analysis and Success Prediction](https://github.com/david-adewoyin/bank_marketing_success_prediction): Developed machine learning models for correctly classifying the success of a bank marketing campaign with indepth data exploration and visualization using Python and Tableau. 
+- [Machine Learning Basics](https://github.com/david-adewoyin/machine_learning_basics): Implemented  popular machine learning algorithms such as linear regression, softmax regression, K nearest neighbor, decision trees, bagging, random forest, etc from scratch using only plain Python and Numpy.
+- [HackerNews Project](https://github.com/david-adewoyin/HackerNews): Using the official API, I scraped over 1.2 million posts and 70k+ usernames to perform EDA and entity recognition on data.
+- [Apple Podcast Project](https://github.com/david-adewoyin/apple_podcasts):Scraped and published podcast metadata and user reviews dataset for machine learning projects a. 
+
+### [Tableau Dashboards](https://public.tableau.com/app/profile/david.adewoyin)
+<img src="https://user-images.githubusercontent.com/57121852/213937143-2f2a2748-65d3-4525-9a0e-ad629e869957.png" width='600px'>
 
 ### Deep Learning
 - [NeuralStyleTransfer](https://github.com/david-adewoyin/NeuralStyleTransfer):Developed Tensorflow Implementation of A Neural Algorithm of Artistic Style.
