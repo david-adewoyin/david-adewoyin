@@ -3,10 +3,16 @@
 
  
 I am Software Developer.
-I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/'). I have a lot of stuff i have done ranging from mobile applications built using flutter to backends and data science and machine learning projects.
+I love to learn and share my knowledge with other people.In my free time i read books, mostly ebooks produced by the folks at [Standard Ebooks]('https://standardebooks.org/'). I have a lot of stuff i have done ranging from mobile applications built using flutter to web appications and  machine learning projects.
 
 
 ### Some of the things i have done :heart:  
+
+### Software Engineering
+
+- [Yatshop](https://github.com/david-adewoyin/yatshop):Developed the prototype of an E-commerce website builder with a custom Html theme using Rust.
+- [Coupon Cutter](https://github.com/david-adewoyin/couponcutter):Implemented both the frontend and backend of a mobile coupon system using Flutter and Golang respectively. 
+- [Country Directory](https://github.com/david-adewoyin/country_directory): Developed mobile application using Flutter and GraphQL that allows users to search and get basic information about any country in the world
 
 
  ### Data Science & Machine Learning:  
